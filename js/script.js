@@ -46,7 +46,10 @@ function close_search() {
 }
 
 
+
 // responsive logoipsum slider
+
+
 $('.sliderlogo').slick({
     arrows: false,
     dots: false,
